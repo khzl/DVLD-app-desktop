@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DVLD.Application/obj
+/DVLD.Application/DVLD.Application.csproj
+/DVLD.Infrastructure/obj
+/DVLD.Infrastructure/DVLD.Infrastructure.csproj
+/DVLD.Wpf/obj
+/DVLDApp.slnx
+/DVLD.Wpf/DVLD.Wpf.csproj
+/DVLD.Wpf/DVLD.Wpf.csproj.user
